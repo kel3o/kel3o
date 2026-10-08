@@ -1,14 +1,11 @@
 <!--
   Theme: dark + gold
   Accent: #F2A932 / #F2A93B
-  Banner: drop your banner at assets/banner.png and uncomment the img below
 -->
 
 <div align="center">
 
-<!-- Uncomment after you upload assets/banner.png
-<img src="assets/banner.png" alt="Arman Cursor banner" width="100%" />
--->
+<img src="assets/banner.jpg" alt="Arman Cursor banner" width="100%" />
 
 # Arman Cursor
 
@@ -89,7 +86,7 @@ Part of **[Charkhfalak Holding](https://charkhfalak.ir/)**.
 
 A pixel cat that lives on this profile and reacts to my public GitHub activity.
 
-<!-- Appears after Actions → "My YourTomo cat" runs once -->
+<!-- Appears after Actions → "My YourTomo cat" → Run workflow once -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kel3o/kel3o/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kel3o/kel3o/main/dist/pet-light.svg">
