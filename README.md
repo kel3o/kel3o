@@ -9,7 +9,7 @@
 
 # Arman Cursor
 
-**Junior Vibe Coder · Learning in public**
+**Vibe Coder · Learning in public**
 
 *Exploring product ideas with AI — one adventure at a time*
 
@@ -19,7 +19,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@arman__cursor-F2A932?style=flat&logo=telegram&logoColor=0d0d0d)](https://t.me/arman_cursor)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman%20Hasanzade-F2A932?style=flat&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/arman-hasanzade-b33285294)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=F2A932&center=true&vCenter=true&width=680&lines=Junior+Vibe+Coder;Learning+to+build+with+AI;Curious+%C2%B7+Hands-on+%C2%B7+Adventure-driven;Shipping+small+projects+%26+learning+fast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=F2A932&center=true&vCenter=true&width=680&lines=Vibe+Coder;Learning+to+build+with+AI;Curious+%C2%B7+Hands-on+%C2%B7+Adventure-driven;Shipping+small+projects+%26+learning+fast)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,9 +27,9 @@
 
 ### About
 
-I'm a **junior vibe coder** — I don't come from a heavy programming background, and I'm still early in the journey.
+I'm a **Vibe Coder**. When it comes to **programming languages**, I'm still a junior — early in the journey and learning as I go.
 
-Right now I'm **learning by doing**: building small products with AI tools like **Cursor** and **Claude Code**, picking up web and mobile basics as I go, and collecting real experience one project at a time.
+I build small products with AI tools like **Cursor** and **Claude Code**, pick up web and mobile basics project by project, and collect real experience without pretending to be a senior engineer.
 
 I love the adventure of turning an idea into something that actually runs — even when I don't know every line of code yet.
 
