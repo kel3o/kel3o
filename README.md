@@ -107,11 +107,12 @@ Part of **[Charkhfalak Holding](https://charkhfalak.ir/)**.
 
 ---
 
-### Featured Project
+### Featured Projects
 
 | Project | What it is |
 |---------|------------|
 | **[Arman-studio](https://github.com/kel3o/Arman-studio)** | A small Persian text-to-speech experiment using Gemini TTS |
+| **[reel-studio](https://github.com/kel3o/reel-studio)** | Local Persian reel studio — teleprompter, multi-camera, timed cuts, editing & subtitles |
 
 ---
 
