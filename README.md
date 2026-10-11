@@ -33,34 +33,53 @@ Part of **[Charkhfalak Holding](https://charkhfalak.ir/)**.
 
 ---
 
-### Tech Stack
+## 💻 Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=F2A932&center=true&vCenter=true&width=700&lines=Vibe+Coder;AI+Product+Builder;Web+%26+Mobile+Developer;Cursor+%26+Claude+Code" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat&logo=typescript&logoColor=F2A932)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat&logo=javascript&logoColor=F2A932)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat&logo=python&logoColor=F2A932)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d0d0d?style=flat&logo=kotlin&logoColor=F2A932)
-![Swift](https://img.shields.io/badge/Swift%20%2F%20iOS-0d0d0d?style=flat&logo=swift&logoColor=F2A932)
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=flat&logo=php&logoColor=F2A932)
+<div align="center">
 
-**Web & Mobile**
+### 👨‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,swift,php&theme=dark" />
 
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat&logo=nextdotjs&logoColor=F2A932)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat&logo=react&logoColor=F2A932)
-![Astro](https://img.shields.io/badge/Astro-0d0d0d?style=flat&logo=astro&logoColor=F2A932)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat&logo=tailwindcss&logoColor=F2A932)
-![Android](https://img.shields.io/badge/Android-0d0d0d?style=flat&logo=android&logoColor=F2A932)
-![iOS](https://img.shields.io/badge/iOS-0d0d0d?style=flat&logo=apple&logoColor=F2A932)
+<br><br>
 
-**AI & Tools**
+### 🌐 Web & Mobile
+<img src="https://skillicons.dev/icons?i=nextjs,react,astro,html,css,tailwind,androidstudio,apple&theme=dark" />
 
-![Cursor](https://img.shields.io/badge/Cursor-0d0d0d?style=flat&logo=cursor&logoColor=F2A932)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-0d0d0d?style=flat&logo=anthropic&logoColor=F2A932)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=flat&logo=visualstudiocode&logoColor=F2A932)
-![Gemini](https://img.shields.io/badge/Gemini-0d0d0d?style=flat&logo=googlegemini&logoColor=F2A932)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat&logo=git&logoColor=F2A932)
-![REST API](https://img.shields.io/badge/REST%20APIs-0d0d0d?style=flat&logo=fastapi&logoColor=F2A932)
+<br><br>
+
+### 🛠 Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs&theme=dark" />
+
+<br><br>
+
+### 🚀 Additional Skills
+
+<img src="https://img.shields.io/badge/Cursor-AI_Coding-F2A932?style=for-the-badge&logo=cursor&logoColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Claude_Code-Anthropic-F2A932?style=for-the-badge&logo=anthropic&logoColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Gemini-Google_AI-F2A932?style=for-the-badge&logo=googlegemini&logoColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS_Apps-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Assisted_Coding-4CAF50?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
+
+---
+
+## ☁️ AI & Product Ecosystem
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cursor-AI%20IDE-F2A932?style=for-the-badge&logo=cursor&logoColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Claude%20Code-Agentic%20Coding-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-Generative%20AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-Web%20Apps-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -69,6 +88,25 @@ Part of **[Charkhfalak Holding](https://charkhfalak.ir/)**.
 | Project | What it is |
 |---------|------------|
 | **[Arman-studio](https://github.com/kel3o/Arman-studio)** | Persian text-to-speech studio powered by Gemini TTS |
+
+---
+
+## 🎓 Certificates
+
+<div align="center">
+
+### Google Digital Garage — Fundamentals of Digital Marketing
+*Completed 15/06/2020 · Certificate ID: `37R LUM NM7`*
+
+<a href="https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code">
+  <img src="assets/google-digital-marketing.png" alt="Google Digital Marketing Certificate — Arman Hasanzadeh" width="520" />
+</a>
+
+<br>
+
+[![Verify Certificate](https://img.shields.io/badge/Verify_on_Google-F2A932?style=for-the-badge&logo=google&logoColor=0d0d0d)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
+
+</div>
 
 ---
 
@@ -82,11 +120,31 @@ Part of **[Charkhfalak Holding](https://charkhfalak.ir/)**.
 
 ---
 
+### Contribution Snake
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kel3o/kel3o/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kel3o/kel3o/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/kel3o/kel3o/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
+---
+
 ### Profile Cat
 
 A pixel cat that lives on this profile and reacts to my public GitHub activity.
 
-<!-- Appears after Actions → "My YourTomo cat" → Run workflow once -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kel3o/kel3o/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kel3o/kel3o/main/dist/pet-light.svg">
